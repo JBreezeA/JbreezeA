@@ -19,6 +19,9 @@ I help brands get found, cited and recommended across Google, ChatGPT, Gemini, C
 - **Digital PR & link building:** outreach that builds authority and the odds that AI engines cite you
 - **SEO-first websites:** fast, clean builds designed to rank and convert (like [the one this repo powers](https://jenalston.com))
 
+👉 [See all my expertise](https://jenalston.com/expertise)
+
+## 🐈 Recent work
 ## 🐈 Recent work
 
 - **Enterprise GEO & AEO program:** prompt-testing frameworks, prompt libraries and dashboards behind AI Overview and ChatGPT inclusion within days of publication
@@ -30,7 +33,7 @@ I help brands get found, cited and recommended across Google, ChatGPT, Gemini, C
 ## ✍️ From the blog
 
 - [How to Measure AI Share of Voice (With a Worked Example)](https://jenalston.com/blog/how-to-measure-ai-share-of-voice/)
-
+- [A Beginner's Guide to GEO for Small Businesses](https://jenalston.com/blog/beginners-guide-to-geo-for-small-businesses/)
 👉 [Read more field notes on AI search](https://jenalston.com/blog/)
 
 ## 🧰 Toolbox
