@@ -6,7 +6,7 @@ I help brands get found, cited and recommended across Google, ChatGPT, Gemini, C
 
 [![Website](https://img.shields.io/badge/jenalston.com-14142B?style=for-the-badge&logoColor=white)](https://jenalston.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A084FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferalstonseostrategist/)
-[![Book a call](https://img.shields.io/badge/Let's%20talk-FF7A59?style=for-the-badge&logo=gmail&logoColor=14142B)](https://jenalston.com/contact)
+[![Book a call](https://img.shields.io/badge/Let's%20talk-7FDCCF?style=for-the-badge&logo=gmail&logoColor=14142B)](https://jenalston.com/contact)
 
 ---
 
